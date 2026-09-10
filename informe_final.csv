@@ -1,0 +1,5 @@
+cliente,deuda_total,email,ciudad,numero_facturas,peor_aviso
+Acme,950,acme@correo.com,Sevilla,3,urgente
+Beta,800,beta@correo.com,Madrid,1,recordatorio
+Delta,600,,,1,urgente
+Gamma,700,gamma@correo.com,Sevilla,1,urgente
